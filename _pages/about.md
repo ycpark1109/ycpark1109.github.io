@@ -9,9 +9,9 @@ profile:
   image: instalogo_2.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>hi</p>
-    <p>123 your address street</p>
-    <p>South Korea</p>
+    <p>Hi, I'm yechan from South Korea</p><br>
+    <p>I'm starting my business</p><br>
+    <p>This is a site containing the business process</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
